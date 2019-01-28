@@ -1,0 +1,1 @@
+{'voxel_size': [3.0, 3.0, 3.0], 'matched': 1, 'max_activity': 1179.6302250803858, 'auto_reg_rho': [0.860544336390985], 'ma_rho': [-0.7268340231108662], 'auto_reg_sigma': 1, 'physiological_sigma': 0, 'task_sigma': 0, 'drift_sigma': 0, 'sfnr': 82.9350762904827, 'fwhm': 6.952552557752372, 'snr': 59.3582271820277}
